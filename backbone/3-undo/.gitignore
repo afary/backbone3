@@ -1,0 +1,5 @@
+tmp/*
+public/javascripts/*.js
+public/javascripts/time_log/*.js
+public/javascripts/time_log_spec/*.js
+.sass-cache
